@@ -22,5 +22,8 @@ function deleteTodo(position) {
     displayTodos();
 }
 
+addTodo('Item 4');
+
+
 
 
